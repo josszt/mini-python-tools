@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Python Tools Project
 
 ## Overview
@@ -25,3 +26,7 @@ It includes:
 - Python fundamentals: variables, loops, conditionals, functions
 - Modularization / multi-file project structure
 - Git/GitHub version control
+=======
+# mini-python-tools
+Small tools related to daily life 
+>>>>>>> 077d6fab4b5c957963a051d888c8c2f51f6e9afd
